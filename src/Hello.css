@@ -1,0 +1,24 @@
+h2 {
+    text-decoration: underline;
+    text-align: left;
+    font-size: 17px;
+    }
+
+li {
+    font-size: 12px;
+} 
+.Hellodiv {
+    border: 5px solid purple;
+    border-radius: 10px;
+    margin-right: 330px;
+    margin-top: 10px;
+    padding-left: 7px;
+    background-color: rgb(247, 196, 221);
+    font-style: italic;
+}   
+div {
+    background-color:whitesmoke ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    
+    
